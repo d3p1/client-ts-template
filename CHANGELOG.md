@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/d3p1/client-ts-template/compare/v1.0.1...v1.0.2) (2023-10-19)
+
+
+### Bug Fixes
+
+* improve ts configuration [[#1](https://github.com/d3p1/client-ts-template/issues/1)] ([b4d622f](https://github.com/d3p1/client-ts-template/commit/b4d622f2524a9f3f3a1766133e6c750840a456a1))
+
 ## [1.0.1](https://github.com/d3p1/client-ts-template/compare/v1.0.0...v1.0.1) (2023-10-18)
 
 
