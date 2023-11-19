@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/d3p1/client-ts-template/compare/v1.0.2...v1.0.3) (2023-11-19)
+
+
+### Bug Fixes
+
+* improve eslint configuration [[#1](https://github.com/d3p1/client-ts-template/issues/1)] ([b1e7cff](https://github.com/d3p1/client-ts-template/commit/b1e7cff6a8c0a80f978dcd1e07ee38ec9fc63584))
+
 ## [1.0.2](https://github.com/d3p1/client-ts-template/compare/v1.0.1...v1.0.2) (2023-10-19)
 
 
